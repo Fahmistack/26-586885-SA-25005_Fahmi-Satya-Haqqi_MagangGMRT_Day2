@@ -103,5 +103,3 @@ Ujung Coxa            : (10.00, 0.00, 0.00)
 Lutut (Femur-Tibia)   : (75.11, 0.00, 54.64)
 End-Effector          : (76.82, 0.00, 59.34)
 ```
-
-(Tempelkan screenshot terminal dan `posture_fk.png` di sini.)
